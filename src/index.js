@@ -55,3 +55,4 @@ const changingTheme = () => {
 };
 
 themeSwitcherEl.addEventListener('change', changingTheme);
+console.log(test);
